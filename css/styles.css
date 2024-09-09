@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(77, 73, 75);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:50px;
+    font-weight: 900;
+    text-align: center;
+    color: aliceblue;
+}
+footer{
+    text-align: center;
+    font-style: italic;
+}
