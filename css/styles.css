@@ -47,7 +47,7 @@ h2{
 }
 .time span{
     font-size: 25px;
-    vertical-align: 25px;
+    vertical-align: middle;
     line-height: 40px;
 }
 
